@@ -1,0 +1,19 @@
+td { 
+	border: 1px solid green;
+	border-radius: 2%;
+} 
+.top {
+	text-align: center;
+}
+img {
+	height: 50px;
+	width: 50px;
+	vertical-align: middle;
+}
+.text {
+	padding-right: 150px;
+}
+.button-container {
+	display: flex;
+	justify-content: flex-end;
+}
